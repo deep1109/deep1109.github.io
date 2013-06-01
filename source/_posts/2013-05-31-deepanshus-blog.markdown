@@ -6,7 +6,6 @@ comments: true
 categories:
 ---
 hi! everyone
-manisha with sachin
 
 
-
+[% http://www.australia.com/contentimages/explore-things-to-see-do-nature.jpg %]
