@@ -1,8 +1,0 @@
----
-layout: post
-title: "testpage2"
-date: 2013-05-31 11:11
-comments: true
-categories: 
----
- hi! going to some changes on my blog....
