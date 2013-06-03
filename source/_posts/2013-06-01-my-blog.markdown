@@ -1,0 +1,7 @@
+---
+layout: post
+title: "my blog"
+date: 2013-06-01 18:06
+comments: true
+categories: 
+---
