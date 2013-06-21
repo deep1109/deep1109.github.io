@@ -6,8 +6,7 @@ comments: true
 categories:
 ---
 About lunatics project.....
-{% img doc1.png}
-{% img doc2.png}
+
 
 
 
