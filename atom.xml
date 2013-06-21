@@ -4,7 +4,7 @@
   <title><![CDATA[my Blog]]></title>
   <link href="http://deep1109.github.io/atom.xml" rel="self"/>
   <link href="http://deep1109.github.io/"/>
-  <updated>2013-06-21T12:15:36+05:30</updated>
+  <updated>2013-06-21T12:49:33+05:30</updated>
   <id>http://deep1109.github.io/</id>
   <author>
     <name><![CDATA[Deepanshu]]></name>
@@ -34,7 +34,7 @@ Testability.
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[deepanshu's blog]]></title>
+    <title type="html"><![CDATA[deepanshu]]></title>
     <link href="http://deep1109.github.io/blog/2013/05/31/deepanshus-blog/"/>
     <updated>2013-05-31T10:23:00+05:30</updated>
     <id>http://deep1109.github.io/blog/2013/05/31/deepanshus-blog</id>
