@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "deepanshu"
+title: "Lunatics Blog"
 date: 2013-05-31 10:23
 comments: true
 categories:
 ---
-One of the best nature picture...
-
-
-{% img http://www.australia.com/contentimages/explore-things-to-see-do-nature.jpg %}
+About lunatics project.....
+{% img doc1.png}
+{% img doc2.png}
 
 
 
