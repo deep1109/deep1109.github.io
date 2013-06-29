@@ -5,7 +5,7 @@ date: 2013-06-04 17:43
 comments: true
 categories: 
 ---
-deep
+deepanshu
 {% img Center/source/images/doc1.png 600 400 DOCUMENTATION "image not available" %}
 {% img Center/images/doc2.png 600 400 DOCUMENTATION "image not available" %}
 Hi everyone! Set of interrelated propositions about constructs. Theories are conceptual frameworks that aid in organizing and predicting phenomena. Again, just as everyone collects data, both lay persons and researchers have theories. According to McGuire (1980), formal theories "are distinguished from ordinary thought by the use of more explicit definitions and more abstract and more formally interrelated principles" (p. 53). Theories vary in their specificity and their units of analysis. Deutsch and Krauss illustrate this through the metaphor of a net.
