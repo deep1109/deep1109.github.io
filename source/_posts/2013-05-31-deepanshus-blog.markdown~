@@ -29,6 +29,7 @@ We have to study SQL to mange the data.
 Application will provide attendance(in % also), details with image, contact, property of the 
 particular MP.
 
+<img src="/images/wireframe lunatics.png" alt="Not found" width="600" height="400">
 
 <img src="/images/doc1.png" alt="Not found" width="600" height="400">
 
