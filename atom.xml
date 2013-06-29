@@ -4,7 +4,7 @@
   <title><![CDATA[Lunatics]]></title>
   <link href="http://deep1109.github.io/atom.xml" rel="self"/>
   <link href="http://deep1109.github.io/"/>
-  <updated>2013-06-29T17:35:46+05:30</updated>
+  <updated>2013-06-29T17:38:12+05:30</updated>
   <id>http://deep1109.github.io/</id>
   <author>
     <name><![CDATA[Deepanshu]]></name>
@@ -18,19 +18,25 @@
     <link href="http://deep1109.github.io/blog/2013/06/29/deepanshus-blog/"/>
     <updated>2013-06-29T05:34:00+05:30</updated>
     <id>http://deep1109.github.io/blog/2013/06/29/deepanshus-blog</id>
-    <content type="html"><![CDATA[<p>About LUNATICS Project&hellip;.
-Got the data of MPs through these links</p>
+    <content type="html"><![CDATA[<p>About LUNATICS Project&hellip;.</p>
+
+<p>Got the data of MPs through these links</p>
 
 <pre><code>    http://164.100.47.132/members_attendance/mainscreen.aspx
     http://www.prsindia.org
     http://india.gov.in
 </code></pre>
 
-<p>We have prepared with the wireframe.
-We have prepared with the Documentation.
-We are starting to make web pages using bootstrap.
-We have to study SQL to mange the data.
-Application will provide attendance(in % also), details with image, contact, property of the particular MP.</p>
+<p>We have prepared with the wireframe.</p>
+
+<p>We have prepared with the Documentation.</p>
+
+<p>We are starting to make web pages using bootstrap.</p>
+
+<p>We have to study SQL to mange the data.</p>
+
+<p>Application will provide attendance(in % also), details with image, contact, property of the
+particular MP.</p>
 ]]></content>
   </entry>
   
