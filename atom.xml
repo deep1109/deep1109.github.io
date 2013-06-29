@@ -4,7 +4,7 @@
   <title><![CDATA[Lunatics]]></title>
   <link href="http://deep1109.github.io/atom.xml" rel="self"/>
   <link href="http://deep1109.github.io/"/>
-  <updated>2013-06-29T17:08:29+05:30</updated>
+  <updated>2013-06-29T17:10:24+05:30</updated>
   <id>http://deep1109.github.io/</id>
   <author>
     <name><![CDATA[Deepanshu]]></name>
@@ -42,8 +42,8 @@ Testability.
     <updated>2013-05-31T10:23:00+05:30</updated>
     <id>http://deep1109.github.io/blog/2013/05/31/deepanshus-blog</id>
     <content type="html"><![CDATA[<p>About lunatics project&hellip;..
-Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | &ldquo;title text&rdquo; [&ldquo;alt text&rdquo;]] %}
-Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | &ldquo;title text&rdquo; [&ldquo;alt text&rdquo;]] %}</p>
+<img src="Center/source/images/doc1.png" width="600" height="400" title="DOCUMENTATION &#34;image not available&#34;" alt="DOCUMENTATION &#34;image not available&#34;">
+<img src="Center/images/doc2.png" width="600" height="400" title="DOCUMENTATION &#34;image not available&#34;" alt="DOCUMENTATION &#34;image not available&#34;"></p>
 ]]></content>
   </entry>
   
