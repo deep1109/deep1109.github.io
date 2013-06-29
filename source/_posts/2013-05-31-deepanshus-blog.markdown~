@@ -30,7 +30,7 @@ Application will provide attendance(in % also), details with image, contact, pro
 particular MP.
 
 <img src="doc1.png" alt="Not found" width="600" height="400">
-<img src="/images/doc1.png" alt="Not found" width="600" height="400">
+
 
 {% img /source/images/doc1.png 600 400 DOCUMENTATION "image not available" %}
 {% img source/images/doc2.png 600 400 DOCUMENTATION "image not available" %}
