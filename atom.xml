@@ -4,7 +4,7 @@
   <title><![CDATA[Lunatics]]></title>
   <link href="http://deep1109.github.io/atom.xml" rel="self"/>
   <link href="http://deep1109.github.io/"/>
-  <updated>2013-06-29T17:32:15+05:30</updated>
+  <updated>2013-06-29T17:35:46+05:30</updated>
   <id>http://deep1109.github.io/</id>
   <author>
     <name><![CDATA[Deepanshu]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lunatics Blog]]></title>
+    <link href="http://deep1109.github.io/blog/2013/06/29/deepanshus-blog/"/>
+    <updated>2013-06-29T05:34:00+05:30</updated>
+    <id>http://deep1109.github.io/blog/2013/06/29/deepanshus-blog</id>
+    <content type="html"><![CDATA[<p>About LUNATICS Project&hellip;.
+Got the data of MPs through these links</p>
+
+<pre><code>    http://164.100.47.132/members_attendance/mainscreen.aspx
+    http://www.prsindia.org
+    http://india.gov.in
+</code></pre>
+
+<p>We have prepared with the wireframe.
+We have prepared with the Documentation.
+We are starting to make web pages using bootstrap.
+We have to study SQL to mange the data.
+Application will provide attendance(in % also), details with image, contact, property of the particular MP.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[img]]></title>
@@ -33,27 +54,6 @@ Testability.
 </code></pre>
 
 <p><img src="http://3.bp.blogspot.com/-WaXtqBG7Bh0/UDcR1Ot11JI/AAAAAAAACpk/0ULDrU7KYqk/s1600/nature-wallpaper-19.jpg"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lunatics Blog]]></title>
-    <link href="http://deep1109.github.io/blog/2013/05/31/deepanshus-blog/"/>
-    <updated>2013-05-31T10:23:00+05:30</updated>
-    <id>http://deep1109.github.io/blog/2013/05/31/deepanshus-blog</id>
-    <content type="html"><![CDATA[<p>About LUNATICS Project&hellip;.
-&mdash;Got the data of MPs through these links</p>
-
-<pre><code>    http://164.100.47.132/members_attendance/mainscreen.aspx
-    http://www.prsindia.org
-    http://india.gov.in
-</code></pre>
-
-<p>&mdash;We have prepared with the wireframe.
-&mdash;We have prepared with the Documentation.
-&mdash;We are starting to make web pages using bootstrap.
-&mdash;We have to study SQL to mange the data.
-&mdash;Application will provide attendance(in % also), details with image, contact, property of the particular MP.</p>
 ]]></content>
   </entry>
   
