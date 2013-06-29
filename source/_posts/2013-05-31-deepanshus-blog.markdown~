@@ -28,3 +28,8 @@ We have to study SQL to mange the data.
 
 Application will provide attendance(in % also), details with image, contact, property of the 
 particular MP.
+
+
+
+{% img /source/images/doc1.png 600 400 DOCUMENTATION "image not available" %}
+{% img source/images/doc2.png 600 400 DOCUMENTATION "image not available" %}
