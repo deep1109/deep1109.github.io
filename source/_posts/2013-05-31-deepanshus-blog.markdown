@@ -6,7 +6,7 @@ comments: true
 categories:
 ---
 About lunatics project.....
-{% img Center/source/images/doc1.png 600 400 DOCUMENTATION "image not available" %}
+{% img Centre/source/images/doc1.png 600 400 DOCUMENTATION "image not available" %}
 {% img Center/images/doc2.png 600 400 DOCUMENTATION "image not available" %}
 
 
